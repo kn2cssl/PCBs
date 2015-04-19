@@ -1,0 +1,9 @@
+Added Net: Name=5V
+Added Net: Name=AGND
+Added Net: Name=HALL1
+Added Net: Name=HALL2
+Added Net: Name=HALL3
+Added Net: Name=MW1
+Added Net: Name=MW2
+Added Net: Name=MW3
+Added Class: Name=tabdil motor

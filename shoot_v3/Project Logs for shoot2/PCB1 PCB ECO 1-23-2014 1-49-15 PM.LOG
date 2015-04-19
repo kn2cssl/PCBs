@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PULS OPTO 2 Pin=Q16-2
+Removed Pin From Net: NetName=GND Pin=Q16-3
+Removed Pin From Net: NetName=PULS OPTO 3 Pin=Q17-2
+Removed Pin From Net: NetName=GND Pin=Q17-3
+Removed Pin From Net: NetName=VCC Pin=R29-2
+Removed Member From Class: ClassName=SHOOT2 Member=D10
+Removed Member From Class: ClassName=SHOOT2 Member=Q16
+Removed Member From Class: ClassName=SHOOT2 Member=Q17
+Removed Member From Class: ClassName=SHOOT2 Member=R29

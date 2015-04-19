@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=D1- IN Pin=driver mosfet1-2
+Removed Pin From Net: NetName=GND Pin=driver mosfet1-3
+Removed Pin From Net: NetName=+12 Pin=driver mosfet1-6
+Removed Pin From Net: NetName=D1-OUT Pin=driver mosfet1-7
+Removed Pin From Net: NetName=D3- IN Pin=driver mosfet2-2
+Removed Pin From Net: NetName=GND Pin=driver mosfet2-3
+Removed Pin From Net: NetName=D2- IN Pin=driver mosfet2-4
+Removed Pin From Net: NetName=D2-OUT Pin=driver mosfet2-5
+Removed Pin From Net: NetName=+12 Pin=driver mosfet2-6
+Removed Pin From Net: NetName=D3-OUT Pin=driver mosfet2-7
+Removed Member From Class: ClassName=SHOOT1 Member=driver mosfet1
+Removed Member From Class: ClassName=SHOOT1 Member=driver mosfet2
+Added Component: Designator=dr1(8 pin SOIC_N)
+Added Component: Designator=dr2(8 pin SOIC_N)
+Added Pin To Net: NetName=D1- IN Pin=dr1-2
+Added Pin To Net: NetName=GND Pin=dr1-3
+Added Pin To Net: NetName=+12 Pin=dr1-6
+Added Pin To Net: NetName=D1-OUT Pin=dr1-7
+Added Pin To Net: NetName=D3- IN Pin=dr2-2
+Added Pin To Net: NetName=GND Pin=dr2-3
+Added Pin To Net: NetName=D2- IN Pin=dr2-4
+Added Pin To Net: NetName=D2-OUT Pin=dr2-5
+Added Pin To Net: NetName=+12 Pin=dr2-6
+Added Pin To Net: NetName=D3-OUT Pin=dr2-7
+Added Member To Class: ClassName=SHOOT1 Member=Component dr1 7667
+Added Member To Class: ClassName=SHOOT1 Member=Component dr2 7667

@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Milad\Desktop\4.11 Main PCB 2\PCB1.PcbDoc
+Date         : 2014/01/25
+Time         : 12:17:44 Þ.Ù
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 491
+    Connections routed, 491
+    Connections remaining, 0
+count : 4

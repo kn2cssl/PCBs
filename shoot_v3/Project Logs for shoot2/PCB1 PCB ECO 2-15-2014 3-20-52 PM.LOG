@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=MICRO 2 Pin=encoder1_DriverMotor3-1
+Removed Pin From Net: NetName=OPAMP-OUT1 Pin=encoder1_DriverMotor3-2
+Removed Pin From Net: NetName=MICRO 3 Pin=encoder1_DriverMotor3-3
+Removed Pin From Net: NetName=MICRO 1 Pin=encoder1_DriverMotor3-4
+Removed Pin From Net: NetName=NetF1_1 Pin=F1-0
+Removed Pin From Net: NetName=VSS Pin=F1-3
+Removed Pin From Net: NetName=VCC Pin=S3-0
+Added Component: Designator=JP3(sucket-smd-4pin)
+Added Pin To Net: NetName=MICRO 3 Pin=JP3-1
+Added Pin To Net: NetName=OPAMP-OUT1 Pin=JP3-2
+Added Pin To Net: NetName=MICRO 2 Pin=JP3-3
+Added Pin To Net: NetName=MICRO 1 Pin=JP3-4
+Change Net Name : Old Net Name=D2-OUT New Net Name=D3-OUT
+Change Net Name : Old Net Name=D3-OUT New Net Name=D2-OUT
+Added Member To Class: ClassName=SHOOT1 Member=Component JP3 Header

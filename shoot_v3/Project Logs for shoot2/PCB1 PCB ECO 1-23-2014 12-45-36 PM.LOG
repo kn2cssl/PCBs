@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=SHOOT2 Member=D1
+Removed Member From Class: ClassName=SHOOT2 Member=D4
+Removed Member From Class: ClassName=SHOOT1 Member=D7
+Removed Member From Class: ClassName=SHOOT1 Member=D8
+Removed Member From Class: ClassName=SHOOT1 Member=D9
+Removed Member From Class: ClassName=SHOOT2 Member=Q6
+Removed Member From Class: ClassName=SHOOT2 Member=Q11
+Removed Member From Class: ClassName=SHOOT2 Member=Q12
+Removed Member From Class: ClassName=SHOOT1 Member=Q14
+Removed Member From Class: ClassName=SHOOT2 Member=R2
+Removed Member From Class: ClassName=SHOOT2 Member=R5
+Removed Member From Class: ClassName=SHOOT1 Member=R13
+Removed Member From Class: ClassName=SHOOT1 Member=R17
+Removed Member From Class: ClassName=SHOOT1 Member=R21
+Removed Member From Class: ClassName=SHOOT1 Member=R27
+Removed Member From Class: ClassName=SHOOT1 Member=R28
+Removed Member From Class: ClassName=SHOOT1 Member=U4
+Removed Member From Class: ClassName=SHOOT1 Member=U5
+Added Member To Class: ClassName=SHOOT2 Member=Component C8 Cap_UP
+Added Member To Class: ClassName=SHOOT1 Member=Component D2 Diode_ShotKey
+Added Member To Class: ClassName=SHOOT1 Member=Component D5 Diode
+Added Member To Class: ClassName=SHOOT2 Member=Component D7 Diode
+Added Member To Class: ClassName=SHOOT2 Member=Component D10 Diode
+Added Member To Class: ClassName=SHOOT1 Member=Component Q5 2N2222
+Added Member To Class: ClassName=SHOOT2 Member=Component Q13 2N2222
+Added Member To Class: ClassName=SHOOT2 Member=Component Q16 2N2222
+Added Member To Class: ClassName=SHOOT2 Member=Component Q17 2N2222
+Added Member To Class: ClassName=SHOOT1 Member=Component R1 Res
+Added Member To Class: ClassName=SHOOT1 Member=Component R2 Res
+Added Member To Class: ClassName=SHOOT1 Member=Component R4 Res
+Added Member To Class: ClassName=SHOOT1 Member=Component R9 Res
+Added Member To Class: ClassName=SHOOT2 Member=Component R12 Res
+Added Member To Class: ClassName=SHOOT2 Member=Component R29 Res
+Added Member To Class: ClassName=SHOOT1 Member=Component U1 7812
+Added Member To Class: ClassName=SHOOT1 Member=Component U2 7805

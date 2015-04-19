@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetF1_1 Pin=F1-0
+Removed Pin From Net: NetName=VSS Pin=F1-3
+Removed Pin From Net: NetName=NetF1_1 Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=MICRO 1 Pin=R11-1
+Removed Pin From Net: NetName=MICRO 1 Pin=R12-2
+Removed Pin From Net: NetName=MICRO 2 Pin=R18-1
+Removed Pin From Net: NetName=MICRO 2 Pin=R19-2
+Removed Pin From Net: NetName=VCC Pin=S3-0
+Change Component Library : Designator=S3 Old Library=KN2CLib.IntLib New Library=KN2CLib.SchLib
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=NetF1_1 Pin=P1-2
+Added Pin To Net: NetName=MICRO 2 Pin=R11-1
+Added Pin To Net: NetName=MICRO 2 Pin=R12-2
+Added Pin To Net: NetName=MICRO 1 Pin=R18-1
+Added Pin To Net: NetName=MICRO 1 Pin=R19-2
+Added Member To Class: ClassName=SHOOT1 Member=Component S3 Screw Hole

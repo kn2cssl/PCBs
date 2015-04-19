@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=MICRO 2 Pin=encoder1_DriverMotor3-1
+Removed Pin From Net: NetName=OPAMP-OUT1 Pin=encoder1_DriverMotor3-2
+Removed Pin From Net: NetName=MICRO 3 Pin=encoder1_DriverMotor3-3
+Removed Pin From Net: NetName=MICRO 1 Pin=encoder1_DriverMotor3-4
+Removed Pin From Net: NetName=NetF1_1 Pin=F1-0
+Removed Pin From Net: NetName=VSS Pin=F1-3
+Removed Pin From Net: NetName=D2-OUT Pin=Q10-1
+Removed Pin From Net: NetName=D3-OUT Pin=Q11-1
+Removed Pin From Net: NetName=VCC Pin=S3-0
+Added Pin To Net: NetName=D3-OUT Pin=Q10-1
+Added Pin To Net: NetName=D2-OUT Pin=Q11-1

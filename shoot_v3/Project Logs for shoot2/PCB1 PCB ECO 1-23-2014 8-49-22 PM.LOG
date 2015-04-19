@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=OPAMP-OUT1 Pin=JP3-1
+Removed Pin From Net: NetName=MICRO 1 Pin=JP3-4
+Added Pin To Net: NetName=MICRO 1 Pin=JP3-1
+Added Pin To Net: NetName=OPAMP-OUT1 Pin=JP3-4

@@ -1,0 +1,24 @@
+Added Component: Designator=C11(2012[0805])
+Added Component: Designator=C12(7343)
+Added Component: Designator=C16(7343)
+Added Component: Designator=C20(2012[0805])
+Added Component: Designator=C23(2012[0805])
+Added Component: Designator=C25(7343)
+Added Pin To Net: NetName=ADD0_DriverMotor1 Pin=C11-1
+Added Pin To Net: NetName=5V Pin=C11-2
+Added Pin To Net: NetName=5V Pin=C12-1
+Added Pin To Net: NetName=ADD0_DriverMotor1 Pin=C12-2
+Added Pin To Net: NetName=5V Pin=C16-1
+Added Pin To Net: NetName=ADD0_DriverMotor1 Pin=C16-2
+Added Pin To Net: NetName=ADD0_DriverMotor1 Pin=C20-1
+Added Pin To Net: NetName=5V Pin=C20-2
+Added Pin To Net: NetName=ADD0_DriverMotor1 Pin=C23-1
+Added Pin To Net: NetName=5V Pin=C23-2
+Added Pin To Net: NetName=5V Pin=C25-1
+Added Pin To Net: NetName=ADD0_DriverMotor1 Pin=C25-2
+Added Member To Class: ClassName=Power Member=Component C11 Cap_UP
+Added Member To Class: ClassName=Power Member=Component C12 Cap_El
+Added Member To Class: ClassName=Power Member=Component C16 Cap_El
+Added Member To Class: ClassName=Power Member=Component C20 Cap_UP
+Added Member To Class: ClassName=Power Member=Component C23 Cap_UP
+Added Member To Class: ClassName=Power Member=Component C25 Cap_El

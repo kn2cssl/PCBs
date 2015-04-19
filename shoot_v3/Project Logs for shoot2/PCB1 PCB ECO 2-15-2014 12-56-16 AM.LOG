@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetF1_1 Pin=F1-0
+Removed Pin From Net: NetName=VSS Pin=F1-3
+Added Component: Designator=P22(HDR2X2)
+Added Member To Class: ClassName=SHOOT1 Member=Component P22 Header 2X2

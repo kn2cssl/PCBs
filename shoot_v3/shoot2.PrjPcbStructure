@@ -1,0 +1,3 @@
+Record=SheetSymbol|SourceDocument=mainsheet.SchDoc|Designator=SHOOT1|SchDesignator=SHOOT1|FileName=shoot1.SchDoc|SymbolType=Normal|RawFileName=shoot1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mainsheet.SchDoc|Designator=SHOOT2|SchDesignator=SHOOT2|FileName=shoot2.SchDoc|SymbolType=Normal|RawFileName=shoot2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=mainsheet.SchDoc

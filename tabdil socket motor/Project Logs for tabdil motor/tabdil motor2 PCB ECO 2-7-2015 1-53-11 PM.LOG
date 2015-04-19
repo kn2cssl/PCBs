@@ -1,0 +1,33 @@
+Added Component: Designator=BL_BOARD(FLT11)
+Added Component: Designator=BL_MOTOR(FLT11)
+Added Pin To Net: NetName=5V Pin=BL_BOARD-11
+Added Pin To Net: NetName=5V Pin=BL_MOTOR-11
+Added Net: Name=5V
+Added Pin To Net: NetName=AGND Pin=BL_BOARD-7
+Added Pin To Net: NetName=AGND Pin=BL_MOTOR-7
+Added Net: Name=AGND
+Added Pin To Net: NetName=HALL1 Pin=BL_BOARD-9
+Added Pin To Net: NetName=HALL1 Pin=BL_MOTOR-9
+Added Net: Name=HALL1
+Added Pin To Net: NetName=HALL2 Pin=BL_BOARD-8
+Added Pin To Net: NetName=HALL2 Pin=BL_MOTOR-8
+Added Net: Name=HALL2
+Added Pin To Net: NetName=HALL3 Pin=BL_BOARD-10
+Added Pin To Net: NetName=HALL3 Pin=BL_MOTOR-10
+Added Net: Name=HALL3
+Added Pin To Net: NetName=MW1 Pin=BL_BOARD-1
+Added Pin To Net: NetName=MW1 Pin=BL_BOARD-2
+Added Pin To Net: NetName=MW1 Pin=BL_MOTOR-1
+Added Pin To Net: NetName=MW1 Pin=BL_MOTOR-2
+Added Net: Name=MW1
+Added Pin To Net: NetName=MW2 Pin=BL_BOARD-3
+Added Pin To Net: NetName=MW2 Pin=BL_BOARD-4
+Added Pin To Net: NetName=MW2 Pin=BL_MOTOR-3
+Added Pin To Net: NetName=MW2 Pin=BL_MOTOR-4
+Added Net: Name=MW2
+Added Pin To Net: NetName=MW3 Pin=BL_BOARD-5
+Added Pin To Net: NetName=MW3 Pin=BL_BOARD-6
+Added Pin To Net: NetName=MW3 Pin=BL_MOTOR-5
+Added Pin To Net: NetName=MW3 Pin=BL_MOTOR-6
+Added Net: Name=MW3
+Added Class: Name=tabdil motor
